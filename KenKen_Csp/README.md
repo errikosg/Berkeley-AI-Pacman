@@ -3,8 +3,8 @@
 
 KenKen is a famous arithmetic and logic puzzle, similar to Sudoku.
 
-More info about the game: [KenKen Wiki](https://en.wikipedia.org/wiki/KenKen)
-Play the game: [KenKen](https://www.kenkenpuzzle.com/)
+More info about the game: [KenKen Wiki](https://en.wikipedia.org/wiki/KenKen).
+Play the game: [KenKen](https://www.kenkenpuzzle.com/).
 
 The implementation of the problem is based on: [csp.py](https://github.com/aimacode/aima-python/blob/master/csp.py).
 The problem is modelled like a **CSP (Constraint Satisfaction Problem)** and the algorithms implemented are:
